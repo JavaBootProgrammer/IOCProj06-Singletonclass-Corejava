@@ -1,4 +1,4 @@
-package com.nt.ston;
+package com.printer.ston;
 
 public class Printer {
 	// private static ref variable to that single obj

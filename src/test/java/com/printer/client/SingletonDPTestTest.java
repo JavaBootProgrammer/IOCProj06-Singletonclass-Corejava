@@ -1,4 +1,4 @@
-package com.nt.client;
+package com.printer.client;
 
 import static org.junit.Assert.assertTrue;
 

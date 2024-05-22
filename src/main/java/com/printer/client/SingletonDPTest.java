@@ -1,6 +1,6 @@
-package com.nt.client;
+package com.printer.client;
 
-import com.nt.ston.Printer;
+import com.printer.ston.Printer;
 
 public class SingletonDPTest 
 {
